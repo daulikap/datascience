@@ -1,3 +1,3 @@
-# datascience
+# python
 
-Compilation of Python code for Data Science.
+Compilation of Python code including Data Science.
